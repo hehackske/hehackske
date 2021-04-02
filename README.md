@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimbero
+- 👋 Hi, I’m @kimbero.E
 - 👀 I’m interested in ...Ethical hacking
 - 🌱 I’m currently learning ...kali-linux
 - 💞️ I’m looking to collaborate on ...
